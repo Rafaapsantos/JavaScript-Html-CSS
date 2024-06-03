@@ -1,0 +1,14 @@
+#areaTotal{
+    width: 50%;
+    margin: 30px auto; /*centraliza o elemento da largura- automatico a esquerda e direita*/
+    border: 1px solid #000; /*red green blue - RGB*/
+    background-color:rgb(120, 134, 197);
+}
+#areaPeso, #areaAltura,#areaBotao,h1, #areaResposta {
+    padding-left: 30px ;/*AFASTAMENTO INTERNO A ESQUERDA*/
+}
+#areaPeso, #areaAltura,#areaBotao, #areaResposta{
+    border: 1px solid #000; /*red green blue - RGB*/
+    padding-bottom: 20px; /*AFASTAMENTO INTERNO ABAIXO*/
+    /*margin-bottom: 10px;*/
+}
